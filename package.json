@@ -1,0 +1,25 @@
+{
+  "name": "eth-people-project",
+  "version": "1.0.0",
+  "description": "eth-people-project",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Altranium/eth-people-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Altranium/eth-people-project/issues"
+  },
+  "homepage": "https://github.com/Altranium/eth-people-project#readme",
+  "dependencies": {
+    "truffle-assertions": "^0.9.2"
+  }
+}
